@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align=center> 
+   <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&size=30&vCenter=true&lines=Hi%20There%20%F0%9F%96%90,%20I%27m%20Renato;%20Game%20Dev%20Student%20%F0%9F%8E%AE" alt="gif" />
+</div>
+<hr>
 
-<!--
-**RenatoB04/RenatoB04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
+![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatob04&show_icons=true&theme=cobalt)
 
-Here are some ideas to get you started:
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/renatob04)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cs,js,kotlin,py)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=css,html,react)
+
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=dotnet,nodejs)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=firebase,mysql)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=anaconda,androidstudio,git,github,markdown,npm,opencv,pycharm,visualstudio,vscode)
