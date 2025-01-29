@@ -3,9 +3,6 @@
 </div>
 <hr>
 
-## GitHub Stats
-![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatob04&show_icons=true&theme=cobalt)
-
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/renatob04)
 
