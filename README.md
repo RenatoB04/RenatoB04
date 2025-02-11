@@ -9,7 +9,7 @@
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cs,js,kotlin,py)
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,js,kotlin,py)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=css,html,react)
@@ -21,4 +21,4 @@
 ![Database & Tools](https://skillicons.dev/icons?i=firebase,mysql)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=anaconda,androidstudio,git,github,markdown,npm,opencv,pycharm,visualstudio,vscode)
+![Others](https://skillicons.dev/icons?i=anaconda,androidstudio,blender,cmake,git,github,gradle,markdown,npm,opencv,pycharm,unity,visualstudio,vscode)
