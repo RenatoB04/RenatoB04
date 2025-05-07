@@ -17,8 +17,13 @@
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=dotnet,nodejs)
 
-#### Database & Tools
+#### Databases
 ![Database & Tools](https://skillicons.dev/icons?i=firebase,mysql)
+#### IDEs & Editors
+![IDEs](https://skillicons.dev/icons?i=androidstudio,clion,pycharm,rider,visualstudio,vscode)
 
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=anaconda,androidstudio,blender,cmake,git,github,gradle,markdown,npm,opencv,pycharm,unity,visualstudio,vscode)
+#### Build & Package Tools
+![Build Tools](https://skillicons.dev/icons?i=cmake,gradle,npm)
+
+#### Other Tools & Technologies
+![Others](https://skillicons.dev/icons?i=anaconda,blender,git,github,markdown,opencv,unity)
