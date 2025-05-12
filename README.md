@@ -6,6 +6,10 @@
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatob04/)
 
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatob04&layout=compact&hide=shaderlab,makefile,cmake,hlsl,html,css&theme=dark)](https://github.com/renatob04)
+
 ## Skills
 
 #### Programming Languages
