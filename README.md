@@ -3,6 +3,8 @@
 </div>
 <hr>
 
+![Snake](https://github.com/renatob04/renatob04/blob/output/github-snake-dark.svg?raw=true)
+
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatob04/)
 
