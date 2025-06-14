@@ -19,7 +19,7 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatob04&layout=compact&card_width=350&hide=shaderlab,makefile,cmake,hlsl,html,css&theme=dark&hide_border=true" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatob04&layout=compact&card_width=350&hide=shaderlab,makefile,cmake,hlsl&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
