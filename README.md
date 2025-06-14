@@ -1,5 +1,5 @@
 <!-- Visitors -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=renatob4.renatob04&left_text=Visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=renatob4.renatob04&left_text=Views&left_color=black&right_color=black&text_color=white" align="right" />
 
 <!-- Intro -->
 <h1 align="center">
