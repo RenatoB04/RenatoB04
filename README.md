@@ -3,12 +3,12 @@
 
 <!-- Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=MontserratBold&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Renato!;+Game+Dev+Student+🎮" alt="Intro with typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&color=C0C0C0&lines=Hi+There!+👋;+I'm+Renato!;+Game+Dev+Student+🎮" alt="Intro" />
 </h1>
 
 <!-- Snake -->
 <p align="center">
-  <img src="https://github.com/renatob04/renatob04/blob/output/github-snake-dark.svg?raw=true" alt="Snake animation showing contribution activity" />
+  <img src="https://github.com/renatob04/renatob04/blob/output/github-snake-dark.svg?raw=true" alt="Snake" />
 </p>
 
 <!-- Links -->
@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renatob04/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RenatoB04/EDJD">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link to portfolio repository" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
