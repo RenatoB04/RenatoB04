@@ -33,15 +33,15 @@
   <img 
     width="450" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatob04&layout=compact&card_width=350&hide=shaderlab,makefile,cmake,hlsl&theme=dark&hide_border=true" 
-    alt="Top programming languages used" 
+    alt="Languages" 
   />
 </p>
 
 <p align="center">
   <img 
     width="450" 
-    src="https://streak-stats.demolab.com?user=RenatoB04&theme=dark&hide_border=true&hide_current_streak=true" 
-    alt="GitHub contribution streak stats" 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=RenatoB04&theme=dark&hide_border=true&hide_current_streak=true" 
+    alt="Streak" 
   />
 </p>
 
@@ -50,22 +50,22 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,kotlin,py" alt="Languages: C, C++, C#, JavaScript, Kotlin, Python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,kotlin,py" alt="Languages" />
 </p>
 
 <h3 align="center">Frontend Technologies</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,html,react" alt="Frontend technologies: CSS, HTML, React" />
+  <img src="https://skillicons.dev/icons?i=css,html,react" alt="Frontend" />
 </p>
 
 <h3 align="center">Backend Technologies</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs" alt="Backend technologies: .NET, Node.js" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs" alt="Backend" />
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" alt="Databases: Firebase, MySQL" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql" alt="Databases" />
 </p>
 
 <h3 align="center">IDEs & Editors</h3>
@@ -75,7 +75,7 @@
 
 <h3 align="center">Build & Package Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cmake,gradle,npm" alt="Build & Package Tools: CMake, Gradle, NPM" />
+  <img src="https://skillicons.dev/icons?i=cmake,gradle,npm" alt="Build & Package Tools" />
 </p>
 
 <h3 align="center">Other Tools & Technologies</h3>
