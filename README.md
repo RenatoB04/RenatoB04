@@ -3,7 +3,7 @@
 
 <!-- Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&color=C0C0C0&lines=Hi+There!+👋;+I'm+Renato!;+Game+Dev+Student+🎮" alt="Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&color=C0C0C0&lines=Hi+There!+👋;+I'm+Paulo!;+Game+Dev+Student+🎮" alt="Intro" />
 </h1>
 
 <!-- Snake -->
