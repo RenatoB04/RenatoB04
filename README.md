@@ -1,6 +1,3 @@
-<!-- Visitors -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=renatob4.renatob04&left_text=Views&left_color=black&right_color=black&text_color=white" align="right" />
-
 <!-- Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&color=C0C0C0&lines=Hi+There!+👋;+I'm+Renato!;+Game+Dev+Student+🎮" alt="Intro" />
@@ -16,13 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renatob04/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RenatoB04/EDJD">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
@@ -48,37 +39,22 @@
 <!-- Skills -->
 <h2 align="center">Skills</h2>
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,kotlin,py,swift" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,kotlin,py,swift" alt="Languages" />
 </p>
 
-<h3 align="center">Frontend Technologies</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,html,react" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=css,html,js,react" alt="Frontend" />
 </p>
 
-<h3 align="center">Backend Technologies</h3>
+<h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=dotnet,firebase,nodejs" alt="Backend" />
 </p>
 
-<h3 align="center">Databases</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" alt="Databases" />
-</p>
-
-<h3 align="center">IDEs & Editors</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,clion,pycharm,rider,visualstudio,vscode" alt="IDEs & Editors" />
-</p>
-
-<h3 align="center">Build & Package Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cmake,gradle,npm" alt="Build & Package Tools" />
-</p>
-
-<h3 align="center">Other Tools & Technologies</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,blender,git,github,markdown,opencv,unity" alt="Other Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=blender,cmake,opencv,unity" alt="Tools" />
 </p>
