@@ -17,6 +17,14 @@
   </a>
 </p>
 
+<!-- University Projects -->
+<h2 align="center">University Projects</h2>
+<p align="center">
+  <a href="https://github.com/renatob04/EDJD">
+    <img src="https://skillicons.dev/icons?i=github" alt="Portfolio" />
+  </a>
+</p>
+
 <!-- Stats -->
 <h2 align="center">Stats</h2>
 
