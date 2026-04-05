@@ -5,7 +5,7 @@
 
 <!-- Snake -->
 <p align="center">
-  <img src="https://github.com/renatob04/renatob04/blob/output/github-snake-dark.svg?raw=true" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/renatob04/renatob04/output/github-snake-dark.svg" alt="Snake" />
 </p>
 
 <!-- Links -->
@@ -21,11 +21,7 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img 
-    width="450" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatob04&layout=compact&card_width=350&hide=shaderlab,makefile,cmake,hlsl&theme=dark&hide_border=true" 
-    alt="Languages" 
-  />
+  <img height="170" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
